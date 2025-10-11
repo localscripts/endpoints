@@ -1,0 +1,277 @@
+{
+  "BloxProducts": {
+    "pfp": "https://bloxproducts.com/_app/immutable/assets/logo.DkUmYUOj.png",
+    "zenith": {
+      "7": {
+        "price": "6.49",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Zenith"
+      },
+      "30": {
+        "price": "19.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Zenith"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "wave": {
+      "7": {
+        "price": "7.49",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Wave"
+      },
+      "30": {
+        "price": "24.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Wave"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "google-pay",
+        "crypto",
+        "apple-pay",
+        "skrill",
+        "neteller",
+        "klarna",
+        "afterpay",
+        "bitcoin",
+        "ethereum",
+        "visa",
+        "mastercard",
+        "american-express",
+        "litecoin",
+        "bank-transfer"
+      ]
+    },
+    "serotonin": {
+      "30": {
+        "price": "9.49",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Serotonin"
+      },
+      "90": {
+        "price": "23.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Serotonin"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "ronin": {
+      "lifetime": {
+        "price": "9.89",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Ronin"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "matcha": {
+      "lifetime": {
+        "price": "9.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Matcha"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "cryptic": {
+      "30": {
+        "price": "4.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Cryptic"
+      },
+      "90": {
+        "price": "9.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Cryptic"
+      },
+      "lifetime": {
+        "price": "23.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Cryptic"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "fluxus": {
+      "30": {
+        "price": "4.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Fluxus"
+      },
+      "lifetime": {
+        "price": "29.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Fluxus"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "aureus": {
+      "standard": {
+        "price": "14.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Aureus"
+      },
+      "premium": {
+        "price": "49.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Aureus"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "exoliner": {
+      "standard": {
+        "price": "9.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Exoliner"
+      },
+      "premium": {
+        "price": "39.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Exoliner"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    },
+    "macsploit": {
+      "lifetime": {
+        "price": "9.99",
+        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#MacSploit"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto",
+        "visa",
+        "mastercard",
+        "american-express",
+        "bank-transfer",
+        "litecoin",
+        "ethereum",
+        "bitcoin",
+        "apple-pay",
+        "google-pay",
+        "skrill",
+        "neteller",
+        "afterpay",
+        "klarna"
+      ]
+    }
+  }
+}
