@@ -2,42 +2,14 @@
   "BloxProducts": {
     "pfp": "https://bloxproducts.com/_app/immutable/assets/logo.DkUmYUOj.png",
     "referral": "15",
-    "zenith": {
-      "7": {
-        "price": "6.49",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Zenith"
-      },
-      "30": {
-        "price": "19.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Zenith"
-      },
-      "payments": [
-        "paypal",
-        "stripe",
-        "crypto",
-        "visa",
-        "mastercard",
-        "american-express",
-        "bank-transfer",
-        "litecoin",
-        "ethereum",
-        "bitcoin",
-        "apple-pay",
-        "google-pay",
-        "skrill",
-        "neteller",
-        "afterpay",
-        "klarna"
-      ]
-    },
     "wave": {
       "7": {
         "price": "7.49",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Wave"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Wave"
       },
       "30": {
         "price": "24.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Wave"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Wave"
       },
       "payments": [
         "paypal",
@@ -89,7 +61,7 @@
     "ronin": {
       "lifetime": {
         "price": "9.89",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Ronin"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Ronin"
       },
       "payments": [
         "paypal",
@@ -113,7 +85,7 @@
     "matcha": {
       "lifetime": {
         "price": "9.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Matcha"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Matcha"
       },
       "payments": [
         "paypal",
@@ -137,15 +109,15 @@
     "cryptic": {
       "30": {
         "price": "4.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Cryptic"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Cryptic"
       },
       "90": {
         "price": "9.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Cryptic"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Cryptic"
       },
       "lifetime": {
         "price": "23.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Cryptic"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Cryptic"
       },
       "payments": [
         "paypal",
@@ -169,11 +141,11 @@
     "fluxus": {
       "30": {
         "price": "4.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Fluxus"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Fluxus"
       },
       "lifetime": {
         "price": "29.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Fluxus"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Fluxus"
       },
       "payments": [
         "paypal",
@@ -197,11 +169,11 @@
     "aureus": {
       "standard": {
         "price": "14.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Aureus"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Aureus"
       },
       "premium": {
         "price": "49.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Aureus"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Aureus"
       },
       "payments": [
         "paypal",
@@ -225,11 +197,11 @@
     "exoliner": {
       "standard": {
         "price": "9.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Exoliner"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Exoliner"
       },
       "premium": {
         "price": "39.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Exoliner"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Exoliner"
       },
       "payments": [
         "paypal",
@@ -253,7 +225,7 @@
     "macsploit": {
       "lifetime": {
         "price": "9.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#MacSploit"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#MacSploit"
       },
       "payments": [
         "paypal",
