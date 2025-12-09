@@ -266,6 +266,21 @@
         "Robux",
         "iDeal"
       ]
+    },
+    "potassium": {
+      "LIFETIME": {
+        "price": "19.99",
+        "url": "https://bloxproducts.com/#Potassium",
+        "deal": true
+      },
+      "payments": [
+        "Bank Tranfer",
+        "Cash App",
+        "Card",
+        "Crypto",
+        "PayPal",
+        "Robux"
+      ]
     }
   }
 }
