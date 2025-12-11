@@ -1,7 +1,7 @@
 {
   "BloxProducts": {
     "pfp": "https://bloxproducts.com/_app/immutable/assets/logo.DkUmYUOj.png",
-    "referral": "15",
+    "referral": "30",
     "wave": {
       "7": {
         "price": "7.49",
@@ -33,11 +33,11 @@
     "serotonin": {
       "30": {
         "price": "9.49",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Serotonin"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Serotonin"
       },
       "90": {
         "price": "23.99",
-        "url": "https://bloxproducts.com/?affiliate_key=>affiliate<#Serotonin"
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Serotonin"
       },
       "payments": [
         "paypal",
@@ -249,12 +249,12 @@
     "volt": {
       "7": {
         "price": "7.95",
-        "url": "https://bloxproducts.com/#Volt",
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt",
         "deal": true
       },
       "30": {
         "price": "24.95",
-        "url": "https://bloxproducts.com/#Volt",
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt",
         "deal": true
       },
       "payments": [
@@ -270,7 +270,7 @@
     "potassium": {
       "LIFETIME": {
         "price": "19.99",
-        "url": "https://bloxproducts.com/#Potassium",
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Potassium",
         "deal": true
       },
       "payments": [
