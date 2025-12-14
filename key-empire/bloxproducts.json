@@ -249,13 +249,11 @@
     "volt": {
       "7": {
         "price": "7.95",
-        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt",
-        "deal": true
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt"
       },
       "30": {
         "price": "24.95",
-        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt",
-        "deal": true
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt"
       },
       "payments": [
         "Bank Tranfer",
@@ -269,9 +267,8 @@
     },
     "potassium": {
       "LIFETIME": {
-        "price": "19.99",
-        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Potassium",
-        "deal": true
+        "price": "22.99",
+        "url": "https://bloxproducts.com/?affiliate_key=keyempire#Potassium"
       },
       "payments": [
         "Bank Tranfer",
