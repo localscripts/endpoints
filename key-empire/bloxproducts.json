@@ -4,11 +4,11 @@
     "referral": "30",
     "wave": {
       "7": {
-        "price": "7.49",
+        "price": "5.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Wave"
       },
       "30": {
-        "price": "24.99",
+        "price": "21.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Wave"
       },
       "payments": [
@@ -32,11 +32,11 @@
     },
     "serotonin": {
       "30": {
-        "price": "9.79",
+        "price": "8.49",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Serotonin"
       },
       "90": {
-        "price": "23.99",
+        "price": "19.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Serotonin"
       },
       "payments": [
@@ -60,7 +60,7 @@
     },
     "ronin": {
       "lifetime": {
-        "price": "9.89",
+        "price": "7.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Ronin"
       },
       "payments": [
@@ -84,7 +84,7 @@
     },
     "matcha": {
       "lifetime": {
-        "price": "9.99",
+        "price": "8.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Matcha"
       },
       "payments": [
@@ -108,15 +108,15 @@
     },
     "cryptic": {
       "30": {
-        "price": "4.99",
+        "price": "4.39",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Cryptic"
       },
       "90": {
-        "price": "9.99",
+        "price": "8.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Cryptic"
       },
       "lifetime": {
-        "price": "23.99",
+        "price": "21.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Cryptic"
       },
       "payments": [
@@ -168,11 +168,11 @@
     },
     "aureus": {
       "standard": {
-        "price": "14.99",
+        "price": "13.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Aureus"
       },
       "premium": {
-        "price": "49.99",
+        "price": "44.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Aureus"
       },
       "payments": [
@@ -196,11 +196,11 @@
     },
     "exoliner": {
       "standard": {
-        "price": "9.99",
+        "price": "8.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Exoliner"
       },
       "premium": {
-        "price": "39.99",
+        "price": "35.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Exoliner"
       },
       "payments": [
@@ -224,7 +224,7 @@
     },
     "macsploit": {
       "lifetime": {
-        "price": "9.99",
+        "price": "8.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#MacSploit"
       },
       "payments": [
@@ -248,11 +248,11 @@
     },
     "volt": {
       "7": {
-        "price": "5.39",
+        "price": "4.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt"
       },
       "30": {
-        "price": "18.59",
+        "price": "16.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Volt"
       },
       "payments": [
@@ -267,7 +267,7 @@
     },
     "potassium": {
       "LIFETIME": {
-        "price": "22.99",
+        "price": "18.99",
         "url": "https://bloxproducts.com/?affiliate_key=keyempire#Potassium"
       },
       "payments": [
